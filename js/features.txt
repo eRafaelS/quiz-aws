@@ -1,0 +1,3 @@
+1- incluir duas questões certas
+2- random na disposição das questões em tela
+3- depois do resultado, mostrar a opção correta na quaestão errada
